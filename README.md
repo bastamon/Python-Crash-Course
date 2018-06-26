@@ -42,3 +42,4 @@ When packages are updated you have the option of using the version that was feat
 
 A list of updates is kept [here](http://ehmatthes.github.io/pcc/updates.html).
 
+![cover](https://images-cn.ssl-images-amazon.com/images/I/51V%2BjZaRB-L._SX407_BO1,204,203,200_.jpg)
