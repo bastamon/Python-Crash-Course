@@ -28,4 +28,6 @@ def greet_user():
         username = get_new_username()
         print("We'll remember you when you come back, " + username + "!")
 
-greet_user()
+
+if __name__ == "__main__":
+    greet_user()
